@@ -1,0 +1,72 @@
+*
+{
+    font-size: 40px;
+}
+.calculator
+{
+    border:2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+span
+{
+    color: red;
+    font-size: 70px;
+}
+
+.container
+{
+    
+    
+
+    /* align-items: center; */
+    /* justify-content: center; */
+    width: 100vw;
+
+
+    height: 100vh;
+}
+
+input
+{
+    border: 5px solid red;
+    border-radius: 23px;
+    position: relative;
+    left: -10px;
+    font-size: 40 px;
+padding: 10px;
+    width: 450px;
+    height: 30px;
+}
+body
+{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)), url("/pexels-cottonbro-5185093.jpg");
+    background-position: center center;
+}
+.container h1
+{
+    position: relative;
+    color: white;
+    left: 600px;
+    top:-30px;
+}
+.calculator
+{
+    display: inline-block;
+    position: relative;
+    top:-50px;
+    left:450px;
+    padding: 20px;
+    background-color: lightpink;
+}
+button
+{
+    border-radius: 10px;
+    font-size: 50px;
+    background-color: grey;
+    border: 1px solid red;
+    width: 145px;;
+    height: 65px;
+}
