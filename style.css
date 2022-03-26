@@ -42,7 +42,7 @@ padding: 10px;
 }
 body
 {
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)), url("/pexels-cottonbro-5185093.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)), url("/pexels-cottonbro-5185093.JPG");
     background-position: center center;
 }
 .container h1
